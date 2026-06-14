@@ -1,0 +1,40 @@
+# Arduino build and compilation artifacts
+**/build/
+**/bin/
+**/out/
+*.local.properties
+*.recipe
+*.elf
+*.hex
+*.bin
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.useroset
+*.sln
+*.vcproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.code-workspace
+.project
+.cproject
+.settings/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Temporary and Log files
+*.log
+*.tmp
+*.bak
+*.swp
+*~

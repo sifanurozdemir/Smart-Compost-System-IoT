@@ -1,0 +1,150 @@
+test_aksu_146544 Humidity: 26.00 %	Temperature: 41.60 *C	LDR Value: 542
+Index of data is: 2
+
+test_aksu_146544 Humidity: 27.00 %	Temperature: 41.50 *C	LDR Value: 541
+Index of data is: 3
+
+test_aksu_146544 Humidity: 29.00 %	Temperature: 41.50 *C	LDR Value: 531
+Index of data is: 4
+
+test_aksu_146544 Humidity: 30.00 %	Temperature: 41.50 *C	LDR Value: 528
+Index of data is: 5
+
+test_aksu_146544 Humidity: 31.00 %	Temperature: 41.50 *C	LDR Value: 489
+Index of data is: 6
+
+test_aksu_146544 Humidity: 31.00 %	Temperature: 41.50 *C	LDR Value: 502
+Index of data is: 7
+
+test_aksu_146544 Humidity: 31.00 %	Temperature: 41.50 *C	LDR Value: 501
+Index of data is: 8
+
+test_aksu_146544 Humidity: 30.00 %	Temperature: 41.50 *C	LDR Value: 501
+Index of data is: 9
+
+test_aksu_146544 Humidity: 29.00 %	Temperature: 41.50 *C	LDR Value: 500
+Index of data is: 10
+
+test_aksu_146544 Humidity: 29.00 %	Temperature: 41.60 *C	LDR Value: 496
+Index of data is: 11
+
+test_aksu_146544 Humidity: 28.00 %	Temperature: 41.70 *C	LDR Value: 511
+Index of data is: 12
+
+test_aksu_146544 Humidity: 27.00 %	Temperature: 41.80 *C	LDR Value: 524
+Index of data is: 13
+
+test_aksu_146544 Humidity: 27.00 %	Temperature: 41.90 *C	LDR Value: 528
+Index of data is: 14
+
+test_aksu_146544 Humidity: 27.00 %	Temperature: 42.00 *C	LDR Value: 511
+Index of data is: 15
+
+test_aksu_146544 Humidity: 26.00 %	Temperature: 42.10 *C	LDR Value: 503
+Index of data is: 16
+
+test_aksu_146544 Humidity: 26.00 %	Temperature: 42.20 *C	LDR Value: 528
+Index of data is: 17
+
+test_aksu_146544 Humidity: 26.00 %	Temperature: 42.20 *C	LDR Value: 528
+Index of data is: 18
+
+test_aksu_146544 Humidity: 26.00 %	Temperature: 42.30 *C	LDR Value: 525
+Index of data is: 19
+
+test_aksu_146544 Humidity: 25.00 %	Temperature: 42.40 *C	LDR Value: 526
+Index of data is: 20
+
+test_aksu_146544 Humidity: 25.00 %	Temperature: 42.40 *C	LDR Value: 511
+Index of data is: 21
+
+test_aksu_146544 Humidity: 25.00 %	Temperature: 42.50 *C	LDR Value: 563
+Index of data is: 22
+
+test_aksu_146544 Humidity: 24.00 %	Temperature: 42.50 *C	LDR Value: 560
+Index of data is: 23
+
+test_aksu_146544 Humidity: 24.00 %	Temperature: 42.60 *C	LDR Value: 586
+Index of data is: 24
+
+test_aksu_146544 Humidity: 24.00 %	Temperature: 42.60 *C	LDR Value: 582
+Index of data is: 25
+
+test_aksu_146544 Humidity: 23.00 %	Temperature: 42.60 *C	LDR Value: 554
+Index of data is: 26
+
+test_aksu_146544 Humidity: 23.00 %	Temperature: 42.60 *C	LDR Value: 573
+Index of data is: 27
+
+test_aksu_146544 Humidity: 22.00 %	Temperature: 42.60 *C	LDR Value: 567
+Index of data is: 28
+
+test_aksu_146544 Humidity: 22.00 %	Temperature: 42.60 *C	LDR Value: 571
+Index of data is: 29
+
+test_aksu_146544 Humidity: 22.00 %	Temperature: 42.60 *C	LDR Value: 571
+Index of data is: 30
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 563
+Index of data is: 31
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 571
+Index of data is: 32
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 571
+Index of data is: 33
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 574
+Index of data is: 34
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 570
+Index of data is: 35
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 562
+Index of data is: 36
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 569
+Index of data is: 37
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 581
+Index of data is: 38
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 571
+Index of data is: 39
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.60 *C	LDR Value: 563
+Index of data is: 40
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.50 *C	LDR Value: 530
+Index of data is: 41
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.50 *C	LDR Value: 553
+Index of data is: 42
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.50 *C	LDR Value: 547
+Index of data is: 43
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.50 *C	LDR Value: 541
+Index of data is: 44
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.50 *C	LDR Value: 537
+Index of data is: 45
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.40 *C	LDR Value: 422
+Index of data is: 46
+
+test_aksu_146544 Humidity: 20.00 %	Temperature: 42.40 *C	LDR Value: 431
+Index of data is: 47
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.40 *C	LDR Value: 427
+Index of data is: 48
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.30 *C	LDR Value: 437
+Index of data is: 49
+
+test_aksu_146544 Humidity: 21.00 %	Temperature: 42.30 *C	LDR Value: 473
+Index of data is: 50
+
+test_aksu_146544 Humidity: 22.00 %	Temperature: 42.30 *C	LDR Value: 565
+Index of data is: 51
+

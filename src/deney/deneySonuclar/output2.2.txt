@@ -1,0 +1,150 @@
+test_sifa_146544 Humidity: 30.00 %	Temperature: 28.90 *C	LDR Value: 509
+Index of data is: 2
+
+test_sifa_146544 Humidity: 30.00 %	Temperature: 28.90 *C	LDR Value: 586
+Index of data is: 3
+
+test_sifa_146544 Humidity: 27.00 %	Temperature: 33.00 *C	LDR Value: 560
+Index of data is: 4
+
+test_sifa_146544 Humidity: 24.00 %	Temperature: 37.30 *C	LDR Value: 714
+Index of data is: 5
+
+test_sifa_146544 Humidity: 20.00 %	Temperature: 41.70 *C	LDR Value: 799
+Index of data is: 6
+
+test_sifa_146544 Humidity: 14.00 %	Temperature: 46.10 *C	LDR Value: 584
+Index of data is: 7
+
+test_sifa_146544 Humidity: 11.00 %	Temperature: 46.50 *C	LDR Value: 624
+Index of data is: 8
+
+test_sifa_146544 Humidity: 7.00 %	Temperature: 46.60 *C	LDR Value: 713
+Index of data is: 9
+
+test_sifa_146544 Humidity: 6.00 %	Temperature: 46.70 *C	LDR Value: 640
+Index of data is: 10
+
+test_sifa_146544 Humidity: 4.00 %	Temperature: 46.70 *C	LDR Value: 571
+Index of data is: 11
+
+test_sifa_146544 Humidity: 3.00 %	Temperature: 46.80 *C	LDR Value: 630
+Index of data is: 12
+
+test_sifa_146544 Humidity: 2.00 %	Temperature: 47.00 *C	LDR Value: 636
+Index of data is: 13
+
+test_sifa_146544 Humidity: 2.00 %	Temperature: 47.20 *C	LDR Value: 862
+Index of data is: 14
+
+test_sifa_146544 Humidity: 1.00 %	Temperature: 47.40 *C	LDR Value: 624
+Index of data is: 15
+
+test_sifa_146544 Humidity: 1.00 %	Temperature: 47.60 *C	LDR Value: 622
+Index of data is: 16
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.90 *C	LDR Value: 767
+Index of data is: 17
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.10 *C	LDR Value: 718
+Index of data is: 18
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.70 *C	LDR Value: 688
+Index of data is: 19
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 49.00 *C	LDR Value: 713
+Index of data is: 20
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 49.00 *C	LDR Value: 762
+Index of data is: 21
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.80 *C	LDR Value: 797
+Index of data is: 22
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.50 *C	LDR Value: 712
+Index of data is: 23
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.20 *C	LDR Value: 839
+Index of data is: 24
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.90 *C	LDR Value: 759
+Index of data is: 25
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.80 *C	LDR Value: 707
+Index of data is: 26
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.70 *C	LDR Value: 805
+Index of data is: 27
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.70 *C	LDR Value: 850
+Index of data is: 28
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.60 *C	LDR Value: 899
+Index of data is: 29
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.40 *C	LDR Value: 919
+Index of data is: 30
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.40 *C	LDR Value: 820
+Index of data is: 31
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.40 *C	LDR Value: 771
+Index of data is: 32
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.40 *C	LDR Value: 543
+Index of data is: 33
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.50 *C	LDR Value: 747
+Index of data is: 34
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.80 *C	LDR Value: 691
+Index of data is: 35
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.00 *C	LDR Value: 721
+Index of data is: 36
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.00 *C	LDR Value: 705
+Index of data is: 37
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.20 *C	LDR Value: 641
+Index of data is: 38
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.40 *C	LDR Value: 765
+Index of data is: 39
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.30 *C	LDR Value: 777
+Index of data is: 40
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 48.00 *C	LDR Value: 765
+Index of data is: 41
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.50 *C	LDR Value: 582
+Index of data is: 42
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 47.00 *C	LDR Value: 726
+Index of data is: 43
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 45.90 *C	LDR Value: 599
+Index of data is: 44
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 45.20 *C	LDR Value: 675
+Index of data is: 45
+
+test_sifa_146544 Humidity: 0.00 %	Temperature: 44.90 *C	LDR Value: 647
+Index of data is: 46
+
+test_sifa_146544 Humidity: 1.00 %	Temperature: 44.70 *C	LDR Value: 664
+Index of data is: 47
+
+test_sifa_146544 Humidity: 1.00 %	Temperature: 44.50 *C	LDR Value: 647
+Index of data is: 48
+
+test_sifa_146544 Humidity: 2.00 %	Temperature: 44.90 *C	LDR Value: 655
+Index of data is: 49
+
+test_sifa_146544 Humidity: 2.00 %	Temperature: 45.00 *C	LDR Value: 653
+Index of data is: 50
+
+test_sifa_146544 Humidity: 1.00 %	Temperature: 45.20 *C	LDR Value: 656
+Index of data is: 51
+
